@@ -10,3 +10,8 @@ git config --global user.email "#"
 - Getting Detailed or One line Git log history output:
 git log --oneline
 git log --patch
+
+- The three options of Git Reset:
+ $ git reset --soft (moving the changes to your staging area)
+ $ git reset --mixed $commitId (moving the changes to your working directory)
+ $ git reset --hard (moving the changes to your recycle bin)
