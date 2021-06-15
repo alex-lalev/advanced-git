@@ -1,5 +1,5 @@
-advanced-git
-*Personal repository to test some handy everyday & advanced Git techniques.*
+### advanced-git
+*Personal repository to test some handy & more advanced Git techniques.*
 
 Global Git User Configuration Commands:
 ```
